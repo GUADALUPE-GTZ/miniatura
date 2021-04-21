@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\Lupitha Gtz\Desktop\Practica5_Matricula\ejemplo1.xsl"?>
+<objetos>
+<objeto>
+<nombre>ropero</nombre>
+<material>madera</material>
+</objeto>
+
+<objeto>
+<nombre>mesa</nombre>
+<material>plastico</material>
+</objeto>
+
+<objeto>
+<nombre>cuchara</nombre>
+<material>plastico</material>
+</objeto>
+
+</objetos>
+
+
+
